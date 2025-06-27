@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitya Shahi</h1>
 <h3 align="center">I am Software Engineer from Pokhara, Nepal</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
